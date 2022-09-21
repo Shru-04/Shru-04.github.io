@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /477ce.html
+Disallow: /2022ad.html
